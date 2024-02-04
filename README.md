@@ -1,2 +1,2 @@
-# Hackdella
-Welcome!
+# Hackadella
+Welcome to home page!
